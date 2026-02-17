@@ -17,6 +17,8 @@ As I continue my journey in Data Analytics and Data Science, I will regularly up
 📌 Current Project
 🍕 Pizza Hut Sales Analysis
 
+=> https://prince001.my.canva.site/red-beige-playful-retro-pizza-presentation
+
 This project explores sales data to uncover valuable business insights, including:
 
 💰 Revenue trends and growth patterns
